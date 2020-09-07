@@ -23,7 +23,7 @@ def right(root):		#root->int
 ```
 
 这样堆的存储方式就基本讲清楚了，如果还是不太懂，看我盗的这个图(摘自：http://labuladong.gitbook.io/algo/shu-ju-jie-gou-xi-lie/er-cha-dui-xiang-jie-shi-xian-you-xian-ji-dui-lie)
-
+![1](https://github.com/XHY13770656533/Xiao_Big_Bao_Play_Algorithm/blob/master/Heap/heap1.png "1")
 
 ## 我们来插入和删除 
 然后要说最让人头疼的地方，堆的上浮和下沉操作。我在看数据结构书的时候一直搞不懂他们的差别，后来觉得应该先看作用，再讲实现，由浅入深的来看这个问题也许会好一点。
